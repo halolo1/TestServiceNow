@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="users" language="en" table="x_817220_testapp_users">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>users</label>
+            <language>en</language>
+            <name>x_817220_testapp_users</name>
+            <plural>users</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-03 20:01:56</sys_created_on>
+            <sys_id>9f09e0708757011047eada873cbb3547</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>users</sys_name>
+            <sys_package display_value="TestApp" source="x_817220_testapp">3a58a4348717011047eada873cbb357e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="TestApp">3a58a4348717011047eada873cbb357e</sys_scope>
+            <sys_update_name>sys_documentation_x_817220_testapp_users__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-03 20:01:56</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
